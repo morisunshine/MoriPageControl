@@ -1,4 +1,9 @@
 MoriPageControl
 ===============
 
-it's like the UIPageControl, but it's rectangle
+MoriPageControl is fully customizable Page Control for iOS
+##Usage
+``
+
+
+``
