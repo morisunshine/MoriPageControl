@@ -3,7 +3,7 @@
 //  Eve
 //
 //  Created by Sheldon on 13-8-3.
-//  Copyright (c) 2013年 Gezbox. All rights reserved.
+//  Copyright (c) 2013年 Sheldon. All rights reserved.
 //
 
 #import "MoriPageControl.h"
